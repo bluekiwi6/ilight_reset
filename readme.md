@@ -38,13 +38,13 @@ undone.
 
 Wire the circuit as shown:
 
-<img alt="Wiring" src="https://github.com/bluekiwi6/ilight_reset/blob/main/images/circuit.png" width="700" />
+<img alt="Wiring" src="https://github.com/bluekiwi6/ilight_reset/blob/main/images/circuit.png"/>
 
-![Connection1](images/connected1.jpeg)
+<img alt="Connection1" src="https://github.com/bluekiwi6/ilight_reset/blob/main/images/connected1.jpeg"/>
 
-![Connection2](images/connected2.jpeg)
+<img alt="Connection2" src="https://github.com/bluekiwi6/ilight_reset/blob/main/images/connected2.jpeg"/>
 
-![Connection3](images/connected3.jpeg)
+<img alt="Connection3" src="https://github.com/bluekiwi6/ilight_reset/blob/main/images/connected3.jpeg"/>
 
 ## Reset the counter
 The reset program runs when the uno starts up, so there are three ways to start it:
