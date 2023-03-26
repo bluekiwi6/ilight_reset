@@ -38,7 +38,7 @@ undone.
 
 Wire the circuit as shown:
 
-![Wiring](images/circuit.png)
+<img alt="Wiring" src="https://github.com/bluekiwi6/ilight_reset/blob/main/images/circuit.png" width="200" />
 
 ![Connection1](images/connected1.jpeg)
 
