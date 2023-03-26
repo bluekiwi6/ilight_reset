@@ -40,7 +40,8 @@ Wire the circuit as shown:
 
 <img alt="Wiring" src="https://github.com/bluekiwi6/ilight_reset/blob/main/images/circuit.png"/>
 
-<img alt="Connection1" src="https://github.com/bluekiwi6/ilight_reset/blob/main/images/connected1.jpeg"/>
+![Connection1](images/connected1.JPEG)
+<img alt="Connection1" src="https://github.com/bluekiwi6/ilight_reset/blob/main/images/connected1.JPEG"/>
 
 <img alt="Connection2" src="https://github.com/bluekiwi6/ilight_reset/blob/main/images/connected2.jpeg"/>
 
