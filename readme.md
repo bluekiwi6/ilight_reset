@@ -3,9 +3,12 @@ Remington iLight cartridges provide 1,500 flashes before they are disabled by a 
 This program will reset the counter so you can keep using it. However, you should only reset it 2-3
 times since the bulb and performance does degrade.
 
-## Cartridge
+## iLight Cartridge
 * counter: Dallas DS2431
-* bulb: Still don't know where to get one of these.
+* bulb: Still don't know where to get one of these
+
+![iLight Cartridge](images/ds2431.PNG)
+
 
 ## Supplies
 * [Arduino Uno R3](https://store-usa.arduino.cc/collections/boards/products/arduino-uno-rev3) -
@@ -47,7 +50,7 @@ Wire the circuit as shown:
 ![Connection3](images/connected3.JPEG)
 
 ## Reset the counter
-The reset program runs when the uno starts up, so there are three ways to start it:
+The reset program runs when the arduino starts up, so there are three ways to start it:
 * Run the program upload again
 * Disconnect and reconnect the usb
 * Press the reset button on the arduino
