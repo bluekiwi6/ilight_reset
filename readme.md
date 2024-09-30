@@ -36,7 +36,7 @@ part of the one wire circuit
 Your Arduino is now programmed and ready to reset the ilight counter.
 
 ## Wiring
-Maker sure you're ready to reset the cartridge before connecting it the counter overwrite cannot be
+Maker sure you're ready to reset the cartridge before connecting it since the counter overwrite cannot be
 undone.
 
 Wire the circuit as shown:
